@@ -33,8 +33,7 @@ Mobile app engineer based in Japan 🇯🇵 — building iOS / Android / Flutter
 #### 📊 GitHub Stats
 
 <a href="https://github.com/metal-president">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=metal-president&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metal-president&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=metal-president&theme=default" alt="GitHub stats" />
 </a>
 
 #### 📫 Contact
