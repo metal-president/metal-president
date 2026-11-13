@@ -23,6 +23,22 @@ Mobile app engineer based in Japan 🇯🇵 — building iOS / Android / Flutter
   </tr>
 </table>
 
+#### 🎤 Talks
+
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <a href="https://www.youtube.com/watch?v=dHCB2MDpqVo"><img src="https://img.youtube.com/vi/dHCB2MDpqVo/maxresdefault.jpg" alt="FlutterKaigi 2026 talk video" width="100%"></a>
+    </td>
+    <td width="60%" valign="top">
+      <h4>FlutterKaigi 2026</h4>
+      <p><b>Flutter × On-device ML/AI in Practice</b> — designing for running inference within mobile constraints and integrating it into real products.</p>
+      <p><sub>Flutter × オンデバイス ML/AI 実践 — モバイルの制約の中で推論を動かし、プロダクトに組み込む設計</sub></p>
+      <p>▶️ <a href="https://www.youtube.com/watch?v=dHCB2MDpqVo">Watch on YouTube</a></p>
+    </td>
+  </tr>
+</table>
+
 #### 🛠 Tech Stack
 
 [![Tech stack](https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java,android,apple,ts,capacitor,firebase,ruby,git&perline=12)](https://skillicons.dev)
