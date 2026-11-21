@@ -23,6 +23,13 @@ Mobile app engineer based in Japan 🇯🇵 — building iOS / Android / Flutter
   </tr>
 </table>
 
+#### 📦 Flutter Packages
+
+| Package | Description | Version | Likes | Points |
+| --- | --- | --- | --- | --- |
+| [live_updates](https://pub.dev/packages/live_updates) | iOS Live Activities and Android Live Update notifications with one Dart API (FFIgen / JNIgen, no platform channels).<br><sub>iOS Live Activities と Android Live Update 通知を 1 つの Dart API で扱うプラグイン</sub> | [![pub](https://img.shields.io/pub/v/live_updates)](https://pub.dev/packages/live_updates) | [![likes](https://img.shields.io/pub/likes/live_updates)](https://pub.dev/packages/live_updates/score) | [![points](https://img.shields.io/pub/points/live_updates)](https://pub.dev/packages/live_updates/score) |
+| [live_updates_fcm](https://pub.dev/packages/live_updates_fcm) | Optional Firebase Cloud Messaging integration for live_updates — forwards remote payloads and push tokens.<br><sub>live_updates 向けの FCM 連携(リモート更新とプッシュトークンの受け渡し)</sub> | [![pub](https://img.shields.io/pub/v/live_updates_fcm)](https://pub.dev/packages/live_updates_fcm) | [![likes](https://img.shields.io/pub/likes/live_updates_fcm)](https://pub.dev/packages/live_updates_fcm/score) | [![points](https://img.shields.io/pub/points/live_updates_fcm)](https://pub.dev/packages/live_updates_fcm/score) |
+
 #### 🎤 Talks
 
 <table>
